@@ -1,0 +1,338 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`WarehouseRobot > should render conrrectly 1`] = `
+"<div class="container">
+  <div class="flex flex-col justify-center items-center h-screen w-screen">
+    <div class="flex flex-row my-10 w-96">
+      <form>
+        <div class="flex flex-row gap-2 w-full h-auto"><input type="text" placeholder="Enter a command" name="command" id="command" class="rounded-lg"><button class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none" type="submit"> Submit </button></div>
+        <div>
+          <!--v-if-->
+        </div>
+      </form>
+    </div>
+    <div class="grid gap-1">
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="0">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="0">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="1">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="1">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="2">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="2">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="3">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="3">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="4">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="4">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="5">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="5">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="6">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="6">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="7">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="7">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="0" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="8">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="8">
+          <!--v-if-->
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="border border-gray-300 w-12 h-12 bg-blue-500 text-white" data-x="0" data-y="9">
+          <div class="flex items-center justify-center h-full w-full"><i class="fa-solid fa-robot"></i></div>
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="1" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="2" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="3" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="4" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="5" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="6" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="7" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="8" data-y="9">
+          <!--v-if-->
+        </div>
+        <div class="border border-gray-300 w-12 h-12 bg-gray-100" data-x="9" data-y="9">
+          <!--v-if-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
